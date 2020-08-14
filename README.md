@@ -18,6 +18,12 @@
   <summary>:octocat:</summary>
 	
 <!--START_SECTION:waka-->
+📊 **This week I spent my time on** 
+
+```text
+```
+
+
 <!--END_SECTION:waka-->
 
 </details>
